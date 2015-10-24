@@ -1,0 +1,3 @@
+total 0
+drwxr-xr-x  5 bluewind  staff  170 Oct 25 08:03 newtest
+drwxr-xr-x  6 bluewind  staff  204 Oct 25 07:52 upload
